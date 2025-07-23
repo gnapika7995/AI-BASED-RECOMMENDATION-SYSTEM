@@ -12,7 +12,7 @@
 
 * MENTOR*: NEELA SANTOSH
 
-* Brief Description on  AI-BASED-RECOMMENDATION-SYSTEM :
+* Brief Description on AI-BASED-RECOMMENDATION-SYSTEM :
 
 * An artificial intelligence recommendation system is an advanced computer program that uses artificial intelligence methods to make recommendations of appropriate items or content to users according to their interests, activities, and usage patterns. Such systems find extensive applications in various industries like online commerce, video streaming platforms, online learning, and social networking websites to increase user satisfaction and interaction.
 
