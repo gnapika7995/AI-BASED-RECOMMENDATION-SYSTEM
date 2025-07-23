@@ -36,4 +36,6 @@ Finally, an AI-driven recommendation system uses smarter predictions of user pre
 
 OUTPUT :
 
+<img width="1001" height="378" alt="Image" src="https://github.com/user-attachments/assets/264b12ef-3b58-4c2a-92c1-a512daade13b" />
+
 
